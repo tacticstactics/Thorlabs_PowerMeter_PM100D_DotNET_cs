@@ -1,0 +1,77 @@
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet\bin\Debug\DotNetSample_64.exe.config
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet\bin\Debug\DotNetSample_64.exe
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet\bin\Debug\DotNetSample_64.pdb
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet\bin\Debug\Thorlabs.PM100D.dll
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet\bin\Debug\Thorlabs.PM100D.xml
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet\obj\Debug\DotNetSample_64.csprojResolveAssemblyReference.cache
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet\obj\Debug\DotNetSample_64.Form1.resources
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet\obj\Debug\DotNetSample_64.Properties.Resources.resources
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet\obj\Debug\DotNetSample_64.csproj.GenerateResource.Cache
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet\obj\Debug\DotNetSample_64.exe
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet\obj\Debug\DotNetSample_64.pdb
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v2\bin\Debug\DotNetSample_64.exe.config
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v2\obj\Debug\DotNetSample_64.exe
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v2\obj\Debug\DotNetSample_64.pdb
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v2\bin\Debug\DotNetSample_64.exe
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v2\bin\Debug\DotNetSample_64.pdb
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v2\bin\Debug\Thorlabs.PM100D.dll
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v2\bin\Debug\Thorlabs.PM100D.xml
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v2\obj\Debug\DotNetSample_64.csprojResolveAssemblyReference.cache
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v2\obj\Debug\DotNetSample_64.Form1.resources
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v2\obj\Debug\DotNetSample_64.Properties.Resources.resources
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v2\obj\Debug\DotNetSample_64.csproj.GenerateResource.Cache
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3\bin\Debug\DotNetSample_64.exe.config
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3\obj\Debug\DotNetSample_64.exe
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3\obj\Debug\DotNetSample_64.pdb
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3\obj\Debug\DotNetSample_64.csprojResolveAssemblyReference.cache
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3\obj\Debug\DotNetSample_64.Form1.resources
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3\obj\Debug\DotNetSample_64.Properties.Resources.resources
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3\obj\Debug\DotNetSample_64.csproj.GenerateResource.Cache
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3\bin\Debug\DotNetSample_64.exe
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3\bin\Debug\DotNetSample_64.pdb
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3\bin\Debug\Thorlabs.PM100D.dll
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3\bin\Debug\Thorlabs.PM100D.xml
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3.1\bin\Debug\DotNetSample_64.exe.config
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3.1\obj\Debug\DotNetSample_64.exe
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3.1\obj\Debug\DotNetSample_64.pdb
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3.1\bin\Debug\DotNetSample_64.exe
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3.1\bin\Debug\DotNetSample_64.pdb
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3.1\bin\Debug\Thorlabs.PM100D.dll
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3.1\bin\Debug\Thorlabs.PM100D.xml
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3.1\obj\Debug\DotNetSample_64.csprojResolveAssemblyReference.cache
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3.1\obj\Debug\DotNetSample_64.Form1.resources
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3.1\obj\Debug\DotNetSample_64.Properties.Resources.resources
+C:\Program Files\IVI Foundation\VISA\Win64\PM100D\Samples\DotNet - v3.1\obj\Debug\DotNetSample_64.csproj.GenerateResource.Cache
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\DotNet - v3.1\DotNet - v3.1\bin\Debug\DotNetSample_64.exe.config
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\DotNet - v3.1\DotNet - v3.1\obj\Debug\DotNetSample_64.exe
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\DotNet - v3.1\DotNet - v3.1\obj\Debug\DotNetSample_64.pdb
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\DotNet - v3.1\DotNet - v3.1\bin\Debug\DotNetSample_64.exe
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\DotNet - v3.1\DotNet - v3.1\bin\Debug\DotNetSample_64.pdb
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\DotNet - v3.1\DotNet - v3.1\bin\Debug\Thorlabs.PM100D.dll
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\DotNet - v3.1\DotNet - v3.1\bin\Debug\Thorlabs.PM100D.xml
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\DotNet - v3.1\DotNet - v3.1\obj\Debug\DotNetSample_64.csprojResolveAssemblyReference.cache
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\DotNet - v3.1\DotNet - v3.1\obj\Debug\DotNetSample_64.Form1.resources
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\DotNet - v3.1\DotNet - v3.1\obj\Debug\DotNetSample_64.Properties.Resources.resources
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\DotNet - v3.1\DotNet - v3.1\obj\Debug\DotNetSample_64.csproj.GenerateResource.Cache
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.1\DotNet - v3.1\bin\Debug\DotNetSample_64.exe.config
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.1\DotNet - v3.1\obj\Debug\DotNetSample_64.exe
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.1\DotNet - v3.1\obj\Debug\DotNetSample_64.pdb
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.1\DotNet - v3.1\bin\Debug\DotNetSample_64.exe
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.1\DotNet - v3.1\bin\Debug\DotNetSample_64.pdb
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.1\DotNet - v3.1\bin\Debug\Thorlabs.PM100D.xml
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.1\DotNet - v3.1\obj\Debug\DotNetSample_64.csprojResolveAssemblyReference.cache
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.1\DotNet - v3.1\obj\Debug\DotNetSample_64.Form1.resources
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.1\DotNet - v3.1\obj\Debug\DotNetSample_64.Properties.Resources.resources
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.1\DotNet - v3.1\obj\Debug\DotNetSample_64.csproj.GenerateResource.Cache
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\bin\Debug\DotNetSample_64.exe.config
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\obj\Debug\DotNetSample_64.exe
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\obj\Debug\DotNetSample_64.pdb
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\bin\Debug\DotNetSample_64.exe
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\bin\Debug\DotNetSample_64.pdb
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\bin\Debug\Thorlabs.PM100D.xml
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\obj\Debug\DotNetSample_64.csprojResolveAssemblyReference.cache
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\obj\Debug\DotNetSample_64.Form1.resources
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\obj\Debug\DotNetSample_64.Properties.Resources.resources
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\obj\Debug\DotNetSample_64.csproj.GenerateResource.Cache
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\bin\Debug\Thorlabs.PM100D_64.Interop.dll
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\bin\Debug\Thorlabs.PM100D_64.Interop.xml

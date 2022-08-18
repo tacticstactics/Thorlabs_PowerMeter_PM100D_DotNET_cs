@@ -1,0 +1,86 @@
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\bin\x64\Debug\DotNetSample_64.exe.config
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\bin\x64\Debug\DotNetSample_64.exe
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\bin\x64\Debug\DotNetSample_64.pdb
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\bin\x64\Debug\Thorlabs.PM100D_64.Interop.dll
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\bin\x64\Debug\Thorlabs.PM100D_64.Interop.xml
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\obj\x64\Debug\DotNetSample_64.Form1.resources
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\obj\x64\Debug\DotNetSample_64.Properties.Resources.resources
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\obj\x64\Debug\DotNetSample_64.csproj.GenerateResource.Cache
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\obj\x64\Debug\DotNetSample_64.exe
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2b\DotNet - v3.1\obj\x64\Debug\DotNetSample_64.pdb
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2\DotNet - v3.2\bin\x64\Debug\DotNetSample_64.exe.config
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2\DotNet - v3.2\obj\x64\Debug\DotNetSample_64.exe
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v3.2\DotNet - v3.2\obj\x64\Debug\DotNetSample_64.pdb
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v4.0\DotNet - v4.0\bin\x64\Debug\DotNetSample_64.exe.config
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v4.0\DotNet - v4.0\obj\x64\Debug\DotNetSample_64.exe
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v4.0\DotNet - v4.0\obj\x64\Debug\DotNetSample_64.pdb
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v4.0\DotNet - v4.0\bin\x64\Debug\DotNetSample_64.exe
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v4.0\DotNet - v4.0\bin\x64\Debug\DotNetSample_64.pdb
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v4.0\DotNet - v4.0\bin\x64\Debug\Thorlabs.PM100D_64.Interop.dll
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v4.0\DotNet - v4.0\bin\x64\Debug\Thorlabs.PM100D_64.Interop.xml
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v4.0\DotNet - v4.0\obj\x64\Debug\DotNetSample_64.csprojResolveAssemblyReference.cache
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v4.0\DotNet - v4.0\obj\x64\Debug\DotNetSample_64.Form1.resources
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v4.0\DotNet - v4.0\obj\x64\Debug\DotNetSample_64.Properties.Resources.resources
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v4.0\DotNet - v4.0\obj\x64\Debug\DotNetSample_64.csproj.GenerateResource.Cache
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v10.0\DotNet - v10.0\bin\x64\Debug\DotNetSample_64.exe.config
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v10.0\DotNet - v10.0\obj\x64\Debug\DotNetSample_64.exe
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v10.0\DotNet - v10.0\obj\x64\Debug\DotNetSample_64.pdb
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v10.0\DotNet - v10.0\bin\x64\Debug\DotNetSample_64.exe
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v10.0\DotNet - v10.0\bin\x64\Debug\DotNetSample_64.pdb
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v10.0\DotNet - v10.0\bin\x64\Debug\Thorlabs.PM100D_64.Interop.dll
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v10.0\DotNet - v10.0\bin\x64\Debug\Thorlabs.PM100D_64.Interop.xml
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v10.0\DotNet - v10.0\obj\x64\Debug\DotNetSample_64.csprojResolveAssemblyReference.cache
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v10.0\DotNet - v10.0\obj\x64\Debug\DotNetSample_64.Form1.resources
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v10.0\DotNet - v10.0\obj\x64\Debug\DotNetSample_64.Properties.Resources.resources
+C:\Users\Tech PC\Documents\Visual Studio 2015\Projects\PM100D DotNet - v10.0\DotNet - v10.0\obj\x64\Debug\DotNetSample_64.csproj.GenerateResource.Cache
+C:\Users\Tech PC\Documents\Visual Studio 2017\Projects\PM100D DotNet - v10.0\bin\x64\Debug\DotNetSample_64.exe.config
+C:\Users\Tech PC\Documents\Visual Studio 2017\Projects\PM100D DotNet - v10.0\bin\x64\Debug\DotNetSample_64.exe
+C:\Users\Tech PC\Documents\Visual Studio 2017\Projects\PM100D DotNet - v10.0\bin\x64\Debug\DotNetSample_64.pdb
+C:\Users\Tech PC\Documents\Visual Studio 2017\Projects\PM100D DotNet - v10.0\bin\x64\Debug\Thorlabs.PM100D_64.Interop.dll
+C:\Users\Tech PC\Documents\Visual Studio 2017\Projects\PM100D DotNet - v10.0\bin\x64\Debug\Thorlabs.PM100D_64.Interop.xml
+C:\Users\Tech PC\Documents\Visual Studio 2017\Projects\PM100D DotNet - v10.0\obj\x64\Debug\DotNetSample_64.csprojResolveAssemblyReference.cache
+C:\Users\Tech PC\Documents\Visual Studio 2017\Projects\PM100D DotNet - v10.0\obj\x64\Debug\DotNetSample_64.Form1.resources
+C:\Users\Tech PC\Documents\Visual Studio 2017\Projects\PM100D DotNet - v10.0\obj\x64\Debug\DotNetSample_64.Properties.Resources.resources
+C:\Users\Tech PC\Documents\Visual Studio 2017\Projects\PM100D DotNet - v10.0\obj\x64\Debug\DotNetSample_64.csproj.GenerateResource.Cache
+C:\Users\Tech PC\Documents\Visual Studio 2017\Projects\PM100D DotNet - v10.0\obj\x64\Debug\DotNetSample_64.exe
+C:\Users\Tech PC\Documents\Visual Studio 2017\Projects\PM100D DotNet - v10.0\obj\x64\Debug\DotNetSample_64.pdb
+C:\Users\Tech PC\Documents\Visual Studio 2017\Projects\PM100D DotNet - v10.0\obj\x64\Debug\DotNetSample_64.csproj.CoreCompileInputs.cache
+C:\Users\Techupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\bin\x64\Debug\DotNetSample_64.exe.config
+C:\Users\Techupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\bin\x64\Debug\DotNetSample_64.exe
+C:\Users\Techupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\bin\x64\Debug\DotNetSample_64.pdb
+C:\Users\Techupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\bin\x64\Debug\Thorlabs.PM100D_64.Interop.xml
+C:\Users\Techupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.csprojResolveAssemblyReference.cache
+C:\Users\Techupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.Form1.resources
+C:\Users\Techupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.Properties.Resources.resources
+C:\Users\Techupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.csproj.GenerateResource.Cache
+C:\Users\Techupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.csproj.CoreCompileInputs.cache
+C:\Users\Techupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.exe
+C:\Users\Techupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.pdb
+C:\Users\Techupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\bin\x64\Debug\Thorlabs.PM100D_64.Interop.dll
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\bin\x64\Debug\DotNetSample_64.exe.config
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\bin\x64\Debug\DotNetSample_64.exe
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\bin\x64\Debug\DotNetSample_64.pdb
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\bin\x64\Debug\Thorlabs.PM100D_64.Interop.dll
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\bin\x64\Debug\Thorlabs.PM100D_64.Interop.xml
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.csprojAssemblyReference.cache
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.Form1.resources
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.Properties.Resources.resources
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.csproj.GenerateResource.cache
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.csproj.CoreCompileInputs.cache
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.csproj.CopyComplete
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.exe
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.pdb
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_PM100D_DotNET_cs\WindowsFormsApp1\PM100D DotNet_v10.0_interop\bin\x64\Debug\DotNetSample_64.exe.config
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_PM100D_DotNET_cs\WindowsFormsApp1\PM100D DotNet_v10.0_interop\bin\x64\Debug\DotNetSample_64.exe
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_PM100D_DotNET_cs\WindowsFormsApp1\PM100D DotNet_v10.0_interop\bin\x64\Debug\DotNetSample_64.pdb
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_PM100D_DotNET_cs\WindowsFormsApp1\PM100D DotNet_v10.0_interop\bin\x64\Debug\Thorlabs.PM100D_64.Interop.dll
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_PM100D_DotNET_cs\WindowsFormsApp1\PM100D DotNet_v10.0_interop\bin\x64\Debug\Thorlabs.PM100D_64.Interop.xml
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_PM100D_DotNET_cs\WindowsFormsApp1\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.csproj.AssemblyReference.cache
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_PM100D_DotNET_cs\WindowsFormsApp1\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.csproj.SuggestedBindingRedirects.cache
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_PM100D_DotNET_cs\WindowsFormsApp1\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.Form1.resources
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_PM100D_DotNET_cs\WindowsFormsApp1\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.Properties.Resources.resources
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_PM100D_DotNET_cs\WindowsFormsApp1\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.csproj.GenerateResource.cache
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_PM100D_DotNET_cs\WindowsFormsApp1\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.csproj.CoreCompileInputs.cache
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_PM100D_DotNET_cs\WindowsFormsApp1\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.csproj.CopyComplete
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_PM100D_DotNET_cs\WindowsFormsApp1\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.exe
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_PM100D_DotNET_cs\WindowsFormsApp1\PM100D DotNet_v10.0_interop\obj\x64\Debug\DotNetSample_64.pdb
